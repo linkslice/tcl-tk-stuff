@@ -1,3 +1,4 @@
+# figured I'd start with a fahr converter like early example from K&R C book
 # celcius = 5 * (fahr-32) /9;
 
 package require Tk
